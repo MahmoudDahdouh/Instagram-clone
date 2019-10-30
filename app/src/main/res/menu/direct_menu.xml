@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/direct_toolbar_video"
+        android:icon="@drawable/ic_videocam"
+        android:title="video"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/direct_toolbar_create_group"
+        android:icon="@drawable/ic_create"
+        android:title="create"
+        app:showAsAction="always"/>
+</menu>
